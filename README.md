@@ -2,10 +2,16 @@
 
 ## Positioning
 
-###My homework
+### My homework
 
+#### Magic gallery
+
+
+<<<<<<< HEAD
 ####Magic gallery
 
+=======
+>>>>>>> ee1a1563c69e181d806ceb0a79a6085e86a7ace5
 ![video of the page](./readme/videos/Gallery.gif)
 
 #### Flex
