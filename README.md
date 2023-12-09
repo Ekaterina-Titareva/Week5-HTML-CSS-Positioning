@@ -2,9 +2,9 @@
 
 ## Positioning
 
-###My homework
+### My homework
 
-####Magic gallery
+#### Magic gallery
 
 
 ![video of the page](./readme/videos/Gallery.gif)
