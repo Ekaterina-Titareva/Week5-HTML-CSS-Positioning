@@ -5,6 +5,8 @@
 ###My homework
 
 ####Magic gallery
+
+
 ![video of the page](./readme/videos/Gallery.gif)
 
 #### Flex
